@@ -1,0 +1,9 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.RandomAccess"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractCollection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.ArrayList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="oo.composicao.Item"><rhs name\="oo.composicao.Item"/></lhs><lhs name\="oo.composicao.desafio.Produto"><rhs name\="oo.composicao.desafio.Produto"/></lhs><lhs name\="oo.composicao.desafio.Item"><rhs name\="oo.composicao.desafio.Item"/></lhs><lhs name\="oo.composicao.desafio.Compra"><rhs name\="oo.composicao.desafio.Compra"/></lhs><lhs name\="java.lang.Enum"><rhs name\="oo.heranca.Direcao"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="oo.heranca.Direcao"/></lhs><lhs name\="oo.heranca.Direcao"><rhs name\="oo.heranca.Direcao"/></lhs><lhs name\="oo.heranca.Jogador"><rhs name\="oo.heranca.Heroi"/><rhs name\="oo.heranca.Monstro"/></lhs><lhs name\="oo.heranca.Heroi"><rhs name\="oo.heranca.Heroi"/></lhs><lhs name\="oo.heranca.Monstro"><rhs name\="oo.heranca.Monstro"/></lhs><lhs name\="oo.heranca.desafio.Carro"><rhs name\="oo.heranca.desafio.Civic"/></lhs><lhs name\="oo.heranca.desafio.Civic"><rhs name\="oo.heranca.desafio.Civic"/></lhs></history>
+content_assist_number_of_computers=12
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

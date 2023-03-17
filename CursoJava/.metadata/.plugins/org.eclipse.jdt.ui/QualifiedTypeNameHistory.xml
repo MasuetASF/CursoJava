@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="oo.composicao.Item"/>
+    <fullyQualifiedTypeName name="javax.print.attribute.standard.PrinterMessageFromOperator"/>
+    <fullyQualifiedTypeName name="collections.Lista"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="oo.composicao.desafio.Compra"/>
+    <fullyQualifiedTypeName name="oo.composicao.desafio.Item"/>
+    <fullyQualifiedTypeName name="oo.composicao.desafio.Produto"/>
+    <fullyQualifiedTypeName name="oo.heranca.Jogador"/>
+    <fullyQualifiedTypeName name="oo.heranca.desafio.Carro"/>
+    <fullyQualifiedTypeName name="oo.encapsulamento.casaA.Ana"/>
+    <fullyQualifiedTypeName name="oo.heranca.desafio.Civic"/>
+    <fullyQualifiedTypeName name="oo.heranca.desafio.Ferrari"/>
+    <fullyQualifiedTypeName name="oo.heranca.Monstro"/>
+    <fullyQualifiedTypeName name="oo.heranca.Heroi"/>
+    <fullyQualifiedTypeName name="oo.heranca.Direcao"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="oo.heranca.desafio.Esportivo"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+</qualifiedTypeNameHistroy>

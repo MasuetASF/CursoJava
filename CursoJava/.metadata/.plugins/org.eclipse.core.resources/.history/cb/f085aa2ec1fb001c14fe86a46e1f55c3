@@ -1,0 +1,39 @@
+package oo.heranca.teste;
+
+import oo.heranca.desafio.Civic;
+import oo.heranca.desafio.Ferrari;
+
+public class CarroTeste {
+
+	public static void main(String[] args) {
+		
+		Civic c = new Civic();
+		Ferrari f = new Ferrari();
+		
+		
+		System.out.printf("Velocidade Atual Civic: %d Km/h ", c.velocidadeAtual);
+		System.out.printf("\nVelocidade Atual Ferrari: %d Km/h ", f.velocidadeAtual);
+
+		c.Acelerar();
+		c.Acelerar();
+		c.Acelerar();
+		c.Acelerar();
+		f.Acelerar();
+		f.Acelerar();
+		System.out.printf("\nVelocidade Atual Civic: %d Km/h ", c.velocidadeAtual);
+		System.out.printf("\nVelocidade Atual Ferrari: %d Km/h ", f.velocidadeAtual);
+		
+		c.Frear();
+		c.Frear();
+		c.Frear();
+		c.Frear();
+		c.Frear();
+		c.Frear();
+		
+		f.Frear();
+		
+		System.out.printf("\nVelocidade Atual Civic: %d Km/h ", c.velocidadeAtual);
+		System.out.printf("\nVelocidade Atual Ferrari: %d Km/h ", f.velocidadeAtual);
+	}
+
+}
